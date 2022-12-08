@@ -1,6 +1,11 @@
-<h2>Holla! Eu sou o Lucas Igleizas</h2>
+<h2>Hello there</h2>
+<h2>I'm not good with this but, I will try to show a little bit about myself for you.</h2>
 
-<p>Tenho 19 anos, estou cursando Ciencia da computação e sou apaixonado por tecnologia!<p>
+<p>My name is Lucas Iglezias, I live in São Paulo, Brazil and I'm trying to get my first job<p>
+
+<p>On my free time, I study and I make some personal projects<p>
+
+
 
 Aprendendo: <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
