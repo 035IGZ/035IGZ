@@ -1,8 +1,9 @@
 <h2>Hello there</h2>
-<h2>I'm not good with this but, I will try to show a little bit about myself for you.</h2>
+<p>I'm not good with this but, I will try to show a little bit about myself for you.</p>
 
+
+<h2>Public information</h2>
 <p>My name is Lucas Iglezias, I live in São Paulo, Brazil and I'm trying to get my first job<p>
-
 <p>On my free time, I study and I make some personal projects<p>
 
 
