@@ -19,5 +19,6 @@ Learning: <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg
 
 ## 🌍💻 Let's Connect
 Let's turn our ideas into reality through strategic coding and unwavering dedication. Together, we can make a lasting impact in the world of technology. ⚡
-<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/lucas-iglezias/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<a target='_blank' href="https://www.linkedin.com/in/lucas-iglezias/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
